@@ -19,7 +19,7 @@ overlay
 br_netfilter
 ```
 
-1. Load modules
+Load modules
 
 ```bash
 sudo modprobe overlay
